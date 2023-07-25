@@ -1,0 +1,15 @@
+{"version": 4,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/EdAyers/ProofWidgets4",
+    "subDir?": null,
+    "rev": "a0c2cd0ac3245a0dade4f925bcfa97e06dd84229",
+    "name": "proofwidgets",
+    "inputRev?": "v0.0.13"}},
+  {"git":
+   {"url": "https://github.com/leanprover/std4",
+    "subDir?": null,
+    "rev": "e3c2be331da9ddeef7f82ca363f072a68d7210b3",
+    "name": "std",
+    "inputRev?": null}}]}
