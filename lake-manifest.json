@@ -4,9 +4,9 @@
  [{"git":
    {"url": "https://github.com/EdAyers/ProofWidgets4",
     "subDir?": null,
-    "rev": "a0c2cd0ac3245a0dade4f925bcfa97e06dd84229",
+    "rev": "c43db94a8f495dad37829e9d7ad65483d68c86b8",
     "name": "proofwidgets",
-    "inputRev?": "v0.0.13"}},
+    "inputRev?": "v0.0.11"}},
   {"git":
    {"url": "https://github.com/leanprover/std4",
     "subDir?": null,

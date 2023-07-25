@@ -6,10 +6,10 @@ package «PointAndClick» {
 }
 
 require proofwidgets from git 
-  "https://github.com/EdAyers/ProofWidgets4"@"v0.0.13"
+  "https://github.com/EdAyers/ProofWidgets4"@"v0.0.11"
 
 require std from git
-  "https://github.com/leanprover/std4"
+  "https://github.com/leanprover/std4" @ "main"
 
 
 @[default_target]

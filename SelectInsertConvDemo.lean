@@ -100,5 +100,4 @@ mkSelectInsertTactic "conv?" "Conv 🔍"
 
 example (a : Nat) : a + a - a + a = a := by
   -- Put your cursor on the next line
-  conv?
   all_goals { sorry }
